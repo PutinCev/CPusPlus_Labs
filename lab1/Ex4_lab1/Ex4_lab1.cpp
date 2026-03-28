@@ -1,8 +1,7 @@
-
 #include <iostream>
-using namespace std;
-#include<cmath>;
+#include<cmath>
 #include <windows.h>
+using namespace std;
 
 
 int main()
