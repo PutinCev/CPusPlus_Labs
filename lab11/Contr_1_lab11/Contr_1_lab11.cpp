@@ -3,6 +3,7 @@
 #include <windows.h>
 using namespace std;
 
+
 class Time
 {
 private:
